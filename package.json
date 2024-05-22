@@ -1,0 +1,19 @@
+{
+  "name": "chi-aur-backend",
+  "version": "1.0.0",
+  
+  "description": "A backend course from chai aru code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai",
+    "aur",
+    "code"
+  ],
+  "author": "Yasin Khan",
+  "license": "ISC"
+}
